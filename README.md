@@ -52,7 +52,9 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 - SQL for Data Analysis
 - Data Analytics Internship
 
-
+- 🏥 [Hospital Analysis Dashboard](https://github.com/pandalwadsantoshi3-hub/Hospital-Analysis-Dashboard)
+- 🛒 [Amazon Sales Dashboard](https://github.com/pandalwadsantoshi3-hub/Amazon-Sales-Dashboard)
+- 🍔 [Swiggy Sales Dashboard](https://github.com/pandalwadsantoshi3-hub/Swiggy-Sales-Dashboard)
 
 ## 🌐 Connect With Me
 
@@ -82,6 +84,7 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandalwadsantoshi3-hub&layout=compact&theme=tokyonight)
+
 
 
 
