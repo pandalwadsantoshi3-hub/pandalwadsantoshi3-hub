@@ -1,4 +1,6 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Santoshi Pandalwad</h1>
 <h3 align="center">Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python</h3>
@@ -6,13 +8,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Student in Artificial Intelligence & Data Science
+🎓 B.E Student in Artificial Intelligence & Data Science
 
 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization.
 
 💡 I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
 
-🌱 Currently learning Advanced SQL, Python, and Machine Learning.
+🌱 Currently learning Advanced SQL, Python.
 
 🎯 Goal: To start my career as a Data Analyst and contribute to solving real-world business problems.
 
@@ -25,7 +27,6 @@
 - 🐍 Python
 - 📈 Power BI
 - 📉 Tableau
-- 🐘 PostgreSQL
 - 📋 Statistics
 - 🧹 Data Cleaning
 - 📊 Data Visualization
