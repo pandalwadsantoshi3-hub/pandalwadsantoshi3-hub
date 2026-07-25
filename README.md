@@ -3,35 +3,41 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Santoshi Pandalwad</h1>
-<h3 align="center">Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python</h3>
 
+<h3 align="center">
+Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
+</h3>
 
-## 👩‍💻 About Me
+---
 
-🎓 B.E Student in Artificial Intelligence & Data Science
+## 👨‍💻 About Me
+
+🎓 B.E. Student in Artificial Intelligence & Data Science
 
 📊 Passionate about Data Analytics, Business Intelligence, and Data Visualization.
 
-💡 I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven solutions.
+💡 I enjoy transforming raw data into meaningful insights by creating interactive dashboards and data-driven solutions.
 
-🌱 Currently learning Advanced SQL, Python.
+🌱 Currently learning Advanced SQL, Python, and Data Analytics techniques.
 
-🎯 Goal: To start my career as a Data Analyst and contribute to solving real-world business problems.
+🎯 My goal is to build impactful analytics projects and start my career as a Data Analyst.
 
+---
 
-
-## 🚀 Skills
+## 🛠️ Tech Stack
 
 - 📊 Microsoft Excel
-- 🗄 SQL
+- 🗄️ SQL
 - 🐍 Python
 - 📈 Power BI
 - 📉 Tableau
-- 📋 Statistics
+- 🐘 PostgreSQL
+- 📊 Statistics
 - 🧹 Data Cleaning
-- 📊 Data Visualization
+- 📈 Data Visualization
+- 🔧 Git & GitHub
 
-
+---
 
 ## 📂 Featured Projects
 
@@ -42,7 +48,7 @@
 - 👨‍💼 HR Analytics Dashboard
 - 📈 Sales Performance Dashboard
 
-
+---
 
 ## 📜 Certifications
 
@@ -51,18 +57,20 @@
 - SQL for Data Analysis
 - Data Analytics Internship
 
+---
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/santoshi-pandalwad-37a801393
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/santoshi-pandalwad-37a801393
 
-💻 **GitHub**  
-https://github.com/pandalwadsantoshi3-hub
+- 💻 **GitHub:**  
+  https://github.com/pandalwadsantoshi3-hub
 
-📧 **Email**  
-your-email@gmail.com
+- 📧 **Email:**  
+  <a href="mailto:sanpandalwad@gmail.com">sanpandalwad@gmail.com</a>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -82,4 +90,10 @@ your-email@gmail.com
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile! If you like my projects, don't forget to ⭐ them.
+## ⭐ Thank You for Visiting
+
+Thank you for visiting my GitHub profile!
+
+I am continuously learning and building real-world Data Analytics projects using **Excel, SQL, Power BI, Python, and Tableau**.
+
+If you find my projects useful, don't forget to ⭐ star my repositories.
