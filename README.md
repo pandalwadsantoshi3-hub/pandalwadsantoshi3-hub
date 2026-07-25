@@ -37,7 +37,6 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 - 📈 Data Visualization
 - 🔧 Git & GitHub
 
----
 
 ## 📂 Featured Projects
 
@@ -45,10 +44,6 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 - 🛒 Amazon Sales Dashboard
 - 🍔 Swiggy Sales Dashboard
 - 🍕 Zomato Dashboard
-- 👨‍💼 HR Analytics Dashboard
-- 📈 Sales Performance Dashboard
-
----
 
 ## 📜 Certifications
 
@@ -57,7 +52,7 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 - SQL for Data Analysis
 - Data Analytics Internship
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -70,25 +65,25 @@ Aspiring Data Analyst | AI & DS Student | Excel | SQL | Power BI | Python
 - 📧 **Email:**  
   <a href="mailto:sanpandalwad@gmail.com">sanpandalwad@gmail.com</a>
 
----
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandalwadsantoshi3-hub&show_icons=true&theme=tokyonight)
 
----
+
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pandalwadsantoshi3-hub&theme=tokyonight)
 
----
+
 
 ## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandalwadsantoshi3-hub&layout=compact&theme=tokyonight)
 
----
+
 
 ## ⭐ Thank You for Visiting
 
