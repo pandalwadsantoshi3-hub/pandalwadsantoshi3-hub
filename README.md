@@ -16,7 +16,8 @@ Building interactive dashboards, analysing business data, and creating data-driv
 </p>
 
 <p align="center">
-Always learning. Always building. Always improving.
+Passionate About Data Analytics and Continuous Learning.
+  Building Skills. Solving Problems. Creating Impact.
 </p>
 
 ---
