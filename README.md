@@ -2,19 +2,26 @@
   <img src="banner.jpeg" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Santoshi Pandalwad</h1>
+<h1 align="center">
+👋 Hi, I'm Santoshi Pandalwad
+</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Artificial Intelligence & Data Science Student
+Aspiring Data Analyst | AI & Data Science Student
 </h3>
 
 <p align="center">
-Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Tableau
+Building interactive dashboards, analysing business data, and creating data-driven solutions with
+<strong>Excel</strong> • <strong>SQL</strong> • <strong>Power BI</strong> • <strong>Python</strong> • <strong>Tableau</strong>
+</p>
+
+<p align="center">
+Always learning. Always building. Always improving.
 </p>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
 - B.E. Student in Artificial Intelligence & Data Science.
 - Passionate about Data Analytics, Business Intelligence, and Data Visualization.
@@ -24,7 +31,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
 - Microsoft Excel
 - SQL
@@ -39,7 +46,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Featured Projects
+## 📊 Featured Projects
 
 - [Hospital Analytics Dashboard | Power BI](https://github.com/pandalwadsantoshi3-hub/Hospital-Analysis-Dashboard)
 - [Amazon Sales Analytics Dashboard | Power BI](https://github.com/pandalwadsantoshi3-hub/Amazon-Sales-Dashboard)
@@ -49,7 +56,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Certifications
+## 📜 Certifications
 
 - Microsoft Excel
 - Microsoft Power BI
@@ -58,7 +65,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Connect With Me
+## 📫 Connect With Me
 
 ### LinkedIn
 
@@ -74,7 +81,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pandalwadsantoshi3-hub&show_icons=true&theme=tokyonight" />
@@ -82,7 +89,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pandalwadsantoshi3-hub&theme=tokyonight" />
@@ -90,7 +97,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalwadsantoshi3-hub&layout=compact&theme=tokyonight" />
@@ -98,7 +105,7 @@ Building Interactive Dashboards with Microsoft Excel, SQL, Power BI, Python & Ta
 
 ---
 
-# Thank You for Visiting
+## ⭐ Thank You for Visiting
 
 Thank you for visiting my GitHub profile.
 
@@ -106,4 +113,4 @@ I am continuously learning and building real-world Data Analytics projects using
 
 Feel free to explore my repositories and connect with me on LinkedIn.
 
-If you find my projects useful, please consider giving them a Star.
+If you find my projects useful, please consider giving them a ⭐.
